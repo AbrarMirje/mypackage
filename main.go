@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/AbrarMirje/mypackage/mypackage"
+	mypackage "github.com/AbrarMirje/mypackage/mypackagethree"
 )
 
 func main() {
